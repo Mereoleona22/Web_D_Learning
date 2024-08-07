@@ -1,0 +1,6 @@
+.box{
+    border: 2px  solid black;
+    height: 100px;
+    width: 100px;
+    background-image: linear-gradient(to bottom,yellow,orange);
+}
